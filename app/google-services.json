@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "381234795046",
+    "project_id": "fcmessaging-90894",
+    "storage_bucket": "fcmessaging-90894.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:381234795046:android:63326a0036b34fb0b9cce7",
+        "android_client_info": {
+          "package_name": "com.example.firebasecloudmessaging"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "381234795046-uj8sgsm5h2q607qrtjd5lea5stk9fm04.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrGzt1K7qPq_vWFUmOOQoB5LpIZ4vNPXQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "381234795046-uj8sgsm5h2q607qrtjd5lea5stk9fm04.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
